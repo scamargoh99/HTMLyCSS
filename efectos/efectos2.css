@@ -1,0 +1,31 @@
+body{
+    width: 300px;
+    margin-top: 1px; 
+    margin-left: 50px;
+    margin-right: 50%;
+    margin-bottom: 1px;
+    padding-left: 100px;
+    padding-right: 300px;
+}
+img{
+    margin-top: 40px;
+    width: 150px;
+    height: 150px;
+}
+h2{
+    margin-top: -5px;
+    width: 330px;
+    padding-left: 140px;
+}
+p{
+    width: 540px;
+    font-size: 27px;
+    
+}
+sup{
+    font-size: 19px;
+}
+._hasta{
+    height: 130px;
+    margin-top: -60px;
+}

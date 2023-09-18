@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+}
+caption{
+    text-align: center;
+    color: red;
+    padding: 10px 1px 20px 1px;
+}
+table, td, th{
+    font-size: 30px;
+    border: 2px solid gray;
+    padding: 20px ;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-collapse: collapse; 
+    text-align: center;
+    margin: 1px 250px ;
+}
+
+

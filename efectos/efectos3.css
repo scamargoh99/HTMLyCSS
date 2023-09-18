@@ -1,0 +1,16 @@
+body{
+   
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 500PX;
+}
+p{
+    width: 650px;
+}
+a{
+    color: rgb(41, 146, 211);
+}
+._image{
+    width: 80px;
+    height: 80px;
+}

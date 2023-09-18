@@ -1,0 +1,34 @@
+header{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    height: 150px;
+    background-color: white;
+}
+main{
+    margin-top: 250px;
+    margin-bottom: 100px;
+    width: 100%;
+    height: 1200px;
+    background-color: antiquewhite;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+h1{
+    position: absolute;
+    left: 300px;
+    top: -20px;
+    font-size: 50px;
+    text-align: center;
+}
+div{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+img{
+    width: 200px;
+}

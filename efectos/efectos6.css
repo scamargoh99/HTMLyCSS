@@ -1,0 +1,107 @@
+/*
+p:first-of-type{
+    color: red;
+}
+
+p:last-of-type{
+    color: blue;
+    font-size: 20px;
+}
+
+p:first-line{
+    text-decoration: underline;
+}
+p:nth-of-type(odd):first-line{ /*impares*/
+    /*
+    font-size: 45px;
+}
+p:nth-last-of-type(even):first-letter{ /*pares*/
+    /*
+    font-size: 70px;
+    color: chartreuse;
+}
+p:not(._p3){
+    color: red;
+}
+p:nth-of-type(odd){
+    font-size: 20px;
+    color: red;
+}
+section p:first-of-type{
+    color: blue;
+}
+
+#azul{
+    color: blue;
+}
+._verde{
+    color: red;
+}
+*/
+/*
+div{
+    width: 100%;
+    height: 300px;
+    /*background-image: linear-gradient(darkblue,blue, lightblue); /*arriba hacia abajo*/
+    /*background-image: linear-gradient(to top, darkblue, blue, lightblue, #fff); /*abajo hacia arriba*/
+    /*
+    background-image: url(/img/cigarra.png);
+    background-repeat: no-repeat;
+    background-size: 50%; /*50% = 250px*/
+    /*
+    background-position-x: 50%;
+    background-position-y: 10%;
+    background-attachment: fixed;/*efecto scroll */ 
+    /*
+}
+p{
+    font-size: 40px;
+}
+*/
+/*
+input, label,span{
+    font-size: 40px;
+}
+form{
+    background-color: aqua;
+    width: 500px;
+    height: 1800px;
+    margin-left: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+input{
+    background-color: antiquewhite;
+}
+*/
+h2{
+    font-size: 20px;
+}
+h3{
+    color: antiquewhite;
+}
+input{
+    background-color: antiquewhite;
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 8px;
+    padding-right: 80px;
+    border: 1px solid lightblue;
+    
+}
+form{
+    background-color: cadetblue;
+    width: 300px;
+    height: 320px;
+    margin: 30px 1px 20px 50px;
+    padding: 20px 1px 20px 20px;
+    box-shadow: 8px 7px 1px black;
+}
+#boton{
+    background-color: gainsboro;
+    margin: 5px 90px 5px 90px;
+    padding: 12px 25px 12px 25px;
+    box-shadow: 1px 1px 1px black;
+    border: 1px solid gray;
+}
+

@@ -1,0 +1,92 @@
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+table{
+    font-size: 30px;
+    border: 3px solid blue;
+    text-align: center;
+    border-collapse: collapse; 
+    margin: 10px 750px;
+}
+td{
+    border: 1px solid;
+    padding: 50px;
+    background-color: red;
+}
+._colorbackgroundblack{
+    background-color: black;
+    color: white;
+}
+._bignumber{
+    font-size: 50px;
+}
+._smallnumber{
+    font-size: 15px;
+}
+._bigpadding{
+    padding: 50px 80px 50px 80px;
+}
+
+/*
+ol{
+    font-size: 40px;
+}
+._proteina{
+    color: red;
+}
+._desayuno ._proteina{
+    color: blue;
+}
+._harina{
+    color: green;
+}
+._harina._proteina{
+    color: yellow;
+}
+*/
+/*
+h2{
+    text-align: center;
+}
+h1{
+    padding: 1px 1px 1px 50px;
+    font-size: 40px;
+}
+h3{
+    padding: 1px 1px 1px 50px;
+    font-size: 30px;
+}
+ol{
+    padding: 1px 1px 1px 45px;
+    margin: 1px 1350px 1px 50px;
+    background-color: rgba(255, 182, 193, 0.788);
+}
+ul{
+    padding: 1px 1px 1px 45px;
+    margin: 1px 1350px 1px 50px;
+    background-color: lightgrey;
+}
+._vehiculos ._yelow{
+    background-color: lightgoldenrodyellow;
+}
+._animales ._brown{
+    background-color: burlywood;
+}
+._agua._raya{
+    text-decoration: underline; 
+}
+._agua{
+    background-color: lightblue;
+}
+/*
+._agua{
+    background-color: lightblue;
+}
+._raya{
+    text-decoration: underline;
+}
+*/

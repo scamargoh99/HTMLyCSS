@@ -1,0 +1,17 @@
+section{
+    width: 600px;
+    height: 520px;
+    background-color: rgba(255, 127, 80, 0.568);
+    display: flex;
+    align-items: flex-end;
+}
+._art1{
+    background-color: rgba(99, 224, 99, 0.774);
+    width: 75%;
+    height: 450px;
+}
+._art2{
+    background-color: lightblue;
+    width: 25%;
+    height: 450px;
+}

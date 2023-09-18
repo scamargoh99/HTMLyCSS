@@ -1,0 +1,119 @@
+@media all and (min-width: 1200px){
+    header{
+        width: 100%;
+        height: 150px;
+        background-color: antiquewhite;
+    }
+    nav{
+        width: 25%;
+        height: 400px;
+        background-color: aqua;
+        float: left;
+    }
+    main{
+        width: 50%;
+        height: 400px;
+        background-color: blueviolet;
+        float: left;
+    }
+    aside{
+        width: 25%;
+        height: 400px;
+        background-color: brown;
+        float: left;
+    }
+    footer{
+        width: 100%;
+        height: 100px;
+        background-color: lightgreen;
+        clear: both;
+    }
+    h1{
+        font-size: 65px;
+        text-align: center;
+        color: cadetblue;
+        text-shadow: 10px -10px 15px gray;
+    }
+    div img{
+        position: absolute;
+        width: 200px;
+        margin-top: -100px;
+        left: 15%;
+        border-radius: 15px;
+        
+    }
+    a{
+        display: block;
+        font-size: 35px;
+        text-decoration: none;
+        margin-left: 25px;
+        margin-top: 50px;
+        color: azure;
+        background-color: black;
+        width: 220px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+}
+
+@media all and (min-width: 641px) and (max-width: 1199px) {
+    header{
+        width: 100%;
+        height: 150px;
+        background-color: antiquewhite;
+    }
+    nav{
+        width: 100%;
+        height: 100px;
+        background-color: aqua;
+        
+    }
+    main{
+        width: 60%;
+        height: 400px;
+        background-color: blueviolet;
+        float: left;
+    }
+    aside{
+        width: 40%;
+        height: 400px;
+        background-color: brown;
+        float: left;
+    }
+    footer{
+        width: 100%;
+        height: 100px;
+        background-color: lightgreen;
+        clear: both;
+    }
+}
+@media all and (max-width: 640px) {
+    header{
+        width: 100%;
+        height: 150px;
+        background-color: antiquewhite;
+    }
+    nav{
+        width: 100%;
+        height: 100px;
+        background-color: aqua;
+        
+    }
+    main{
+        width: 100%;
+        height: 200px;
+        background-color: blueviolet;
+        
+    }
+    aside{
+        width: 100%;
+        height: 200px;
+        background-color: brown;
+    }
+    footer{
+        width: 100%;
+        height: 100px;
+        background-color: lightgreen;
+        
+    }
+}

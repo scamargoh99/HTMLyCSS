@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+}
+h1{
+    padding: 1px 1px 1px 50px;
+    font-size: 40px;
+}
+h3{
+    padding: 1px 1px 1px 50px;
+    font-size: 30px;
+}
+ol{
+    padding: 1px 1px 1px 45px;
+    margin: 1px 1350px 1px 50px;
+    background-color: rgba(255, 182, 193, 0.788);
+}
+ul{
+    padding: 1px 1px 1px 45px;
+    margin: 1px 1350px 1px 50px;
+    background-color: lightgrey;
+}
+._vehiculos ._yelow{
+    background-color: lightgoldenrodyellow;
+}
+._animales ._brown{
+    background-color: burlywood;
+}
+._agua._raya{
+    text-decoration: underline; 
+}
+._agua{
+    background-color: lightblue;
+}
+/*
+._agua{
+    background-color: lightblue;
+}
+._raya{
+    text-decoration: underline;
+}
+*/

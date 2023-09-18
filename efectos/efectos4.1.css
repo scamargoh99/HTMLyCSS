@@ -1,0 +1,79 @@
+h1{
+    color: darkcyan;
+    background-color: rgba(245, 245, 245, 0.658);
+    text-align: center;
+    padding: 10px;
+    height: 80px;
+    margin-right:40px;
+    margin-left: 40px;
+    margin-top: -8px;
+    padding-top: 20px;
+}
+h2{
+    color: darkcyan;
+    background-color: rgba(245, 245, 245, 0.658);
+    text-align: center;
+    padding: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 0;
+    padding-top: 15px;
+    height: 30px;
+}
+b{
+    color: darkcyan;
+    font-size: 18px;
+}
+p{
+    font-size: 21px;
+    text-align: justify;
+    padding: 10px;
+    width: 300px;
+    margin-left: 40px;
+    padding-left: 0px;
+    margin-top: 30px;
+}
+._segundo{
+    margin-top: -25px;
+}
+._tercero{
+    margin-top: -30px;
+}
+
+a{
+    color: darkcyan;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 40px;
+}
+a:hover{
+    color: antiquewhite;
+    background-color: darkcyan;
+    border-radius: 10px;
+    transform: scale(0.5);
+    transition-duration: 3s;
+}
+img{
+    width: 215px;
+    height: 180px;
+    margin-left: 40px;
+    border: 3px solid white;
+    border-radius: 5px;
+}
+body{
+    background-image: linear-gradient(rgba(117, 212, 117, 0.493),rgba(230, 230, 132, 0.459), rgb(247, 217, 217));
+    margin-right: 700px;
+    margin-left: 700px;
+    margin-top: -10px;
+    height: 670px;
+}
+hr{
+    width: 403px;
+    border: black 8px solid;
+}
+html{
+    background-color: white;
+    margin: 50px;
+}
+
+

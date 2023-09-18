@@ -1,0 +1,314 @@
+@media all and (min-width: 1200px){
+    header{
+        border: 1px solid rgba(128, 128, 128, 0.192);
+        margin-left: -8px;
+        margin-right: -8px;
+        height: 120px;
+    }
+    div img{
+        position: absolute;
+        width: 350px;
+        margin-left: 400px;
+        margin-top: -40px;
+    }
+    nav{
+        margin-left: -8px;
+        margin-right: -8px;
+        height: 200px;
+        position: relative;
+    }
+    nav h2{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: 450px;
+        margin-right: 850px;
+        margin-top: 60px;
+        font-size: 28px;
+        color: #1E73BE;
+        position: absolute;
+    }
+    nav a{
+        background-color: blueviolet;
+        color: white;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        width: 305px;
+        height: 50px;
+        border: 1px solid blueviolet;
+        border-radius: 5px;
+        margin-top: 60px;
+        margin-left: 58%;
+        position: absolute;
+        text-decoration: none;
+        display: block;   
+        text-align: center;
+        padding: 30px 0 0 0;
+        border: 1px solid royalblue;
+    }
+    nav a:hover{
+        background-color: darkmagenta;
+        color: white;
+    }
+    nav::before{
+        content: "";
+        background-image: url(/img/fondo_estrellas.jpg);
+        opacity: 0.4;
+        position: absolute;
+        top: 0; 
+        left: 0; 
+        bottom: 0; 
+        right: 0;        
+    }
+    main{
+        background-color: rgb(238,238,238);
+        height: 479px;
+        margin-left: -8px;
+        margin-right: -8px;
+        margin-top: -30px;
+    }
+    main p{
+        font-size: 28px;
+        color: black;
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding-top: 50px;
+        padding-bottom: 15px;
+    }
+    main a{
+        width: 180px;
+        height: 35px;
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+        color: white;
+        background-color: #99c400;
+        border-radius: 3px;
+        border: 1px solid #99c400;
+        text-decoration: none;
+        display: inline-block; 
+        text-align: center;
+    }
+    ._caja5{
+        position: relative;
+        left: 565px;
+    }
+    ._caja4{
+        position: relative;
+        left: 535px;
+    }
+    ._caja3{
+        position: relative;
+        left: 505px;
+    }
+    ._caja2{
+        position: relative;
+        left: 475px;
+    }
+    ._caja1{
+        position: relative;
+        left: 445px;
+    }
+    hr{
+        margin-top: 15px;
+        width: 1080px;
+    }
+    main ._caja1:hover{
+        color: white;
+        background-color: green;
+    }
+    main ._caja2:hover{
+        color: white;
+        background-color: green;
+    }
+    main ._caja3:hover{
+        color: white;
+        background-color: green;
+    }
+    main ._caja4:hover{
+        color: white;
+        background-color: green;
+    }
+    main ._caja5:hover{
+        color: white;
+        background-color: green;
+    }
+    ._img1{
+        position: absolute;
+        width: 90px;
+        height: 40px;
+        margin-top: 20px;
+        margin-left: 660px;
+    }
+    ._img2{
+        position: absolute;
+        width: 150px;
+        height: 36px;
+        margin-left: 1170px;
+        margin-top: 25px;
+    }
+    ._input1{
+        position: absolute;
+        background-color: #3b7bbf;
+        color: white;
+        width: 116px;
+        height: 20px;
+        border: #3b7bbf 1px solid;
+        border-radius: 20px;
+        margin-left: 640px;
+        margin-top: 80px;
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+    }
+    ._input1:hover{
+        background-color: darkblue;
+        color: white;
+    }
+    ._input2{
+        position: absolute;
+        background-color: red ;
+        color: white;
+        border: red 1px solid;
+        border-radius: 30px;
+        width: 190px;
+        height: 20px;
+        margin-left: 1130px;
+        margin-top: 80px;
+        display: block;
+        text-decoration: none;
+        padding: 10px;
+    }
+    ._input2:hover{
+        background-color: darkred;
+        color: white;
+    }
+    ._p1{
+        position: absolute;
+        color: #777777;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-top: 110px;
+        width: 700px;
+        text-align: center;
+        margin-left: 620px;
+    }
+    aside{
+        background-color:rgb(27, 154, 168);
+        height: 125px;
+        margin-left: -8px;
+        margin-right: -8px;
+        margin-top: -15px;
+    }
+    aside h1{
+        color: white;
+        font-size: 26px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    aside p{
+        color: white;
+        font-size: 13px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    }
+    ._corazon h1{
+        width: 200px;
+        margin-left: 25%;
+        margin-top: 0;
+    }
+    ._person h1{
+        width: 200px;
+        margin-left: 47%;
+        margin-top: -58px;
+        position: absolute;
+    }
+    ._mano h1{
+        width: 200px;
+        margin-left: 67%;
+        margin-top: -58px;
+        position: absolute;
+    }
+    ._corazon img{
+        width: 40px;
+        margin-left: 21%;
+        margin-top: 20px; 
+    }
+    ._corazon p{
+        width: 90px;
+        margin-left: 25%;
+        padding-top: 15px;
+    }
+    ._person img{
+        margin-left: 42%;
+        margin-top: -82px;
+        width: 50px;
+    }
+    ._person p{
+        width: 120px;
+        margin-left: 47%;
+        margin-top: -87px;
+        position: absolute;
+    }
+   ._mano img{
+        margin-top: -83px;
+        margin-left: 62%;
+        width: 40px;
+        height: 45px;
+        position: absolute;      
+    }
+    aside ._mano p{
+        width: 90px;
+        margin-left: 67%;
+        margin-top: -84px;
+        position: absolute;
+    }
+    section video{
+        width: 1070px;
+        height: 602px;
+        margin-top: 40px;
+        margin-left: 400px;
+        margin-bottom: 40px;
+    }
+    footer{
+        height: 355px;
+        margin-left: -8px;
+        margin-right: -8px;
+        background-color: #454544;
+    }
+    footer ._img1{
+        width: 150px;
+        height: 151px;
+        margin-top: 50px;
+    }
+    footer ul{
+        color: white;
+        font-size: 16px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        float: right;
+        margin-right: 420px;
+        margin-top: 30px;
+    }
+    footer ._img2{
+        width: 224px;
+        height: 54px;
+        margin-top: 220px;
+        margin-left: 958px;
+    } 
+    article{
+        background-color: rgb(27, 154, 168);
+        height: 61px;
+        margin-left: -8px;
+        margin-right: -8px;
+    }
+    article p{
+        color: white;
+        margin-top: 0;
+        font-size: 12px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: 300px;
+        padding-top: 20px;
+    }
+    article b{
+        color: black;
+        font-size: 12px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}

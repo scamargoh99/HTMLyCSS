@@ -1,0 +1,33 @@
+
+table{
+    font-size: 30px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px 600px ; 
+}
+td{
+    font-size: 25px;
+    background-color: gainsboro;
+    border: 1px solid black;  
+    padding: 5px 3px 5px 3px;
+}
+th{
+    color: white;
+    background-color: gray;
+    text-align: center;
+    padding: 5px 70px;
+    border: 1px solid black; 
+}
+h2{
+    text-align: center;
+}
+._alignleft{
+    text-align: left;
+}
+._colorbackgroundred{
+    background-color: red;
+}
+._colorbackgroundgray{
+    background-color: darkgrey;
+}
+

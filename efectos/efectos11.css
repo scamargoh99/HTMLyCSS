@@ -1,0 +1,43 @@
+/*
+section{
+    background-color: red;
+    width: 700px;
+    height: 300px;
+    display: flex;
+}
+._art1{
+    background-color: yellow;
+    width: 70%;
+    height: 150px;
+}
+._art2{
+    background-color: green;
+    width: 30%;
+    height: 150px;
+    
+}
+*/
+section{
+    background-color: antiquewhite;
+    width: 700px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    /*flex-direction: row-reverse;*/
+}
+._art1{
+    background-color: yellow;
+    width: 500px;
+    height: 150px;
+}
+._art2{
+    background-color: green;
+    width: 200px;
+    height: 150px;
+    
+}
+._art3{
+    background-color: red;
+    width: 700px;
+    height: 150px;
+}

@@ -1,0 +1,32 @@
+section{
+    background-color: antiquewhite;
+    width: 700px;
+    height: 450px;
+    display: flex;
+    
+}
+._header{
+    background-color: rgba(255, 127, 80, 0.568);
+    width: 700px;
+    height: 60px;
+}
+._art1{
+    background-color: rgba(99, 224, 99, 0.774);
+    width: 75%;
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+._art2{
+    background-color: lightblue;
+    width: 25%;
+    height: 450px;
+}
+div{
+    background-color: rgba(22, 35, 211, 0.527);
+    width: 210px;
+    height: 160px;
+    border: 1px solid rgba(22, 35, 211, 0.527);
+}
